@@ -1,0 +1,82 @@
+{
+    "Gender": {
+        "Female": 0,
+        "Male": 1
+    },
+    "Marital Status": {
+        "Married": 0,
+        "Widowed": 1,
+        "Single": 2,
+        "Divorced": 3,
+        "Separated": 4
+    },
+    "Education Level": {
+        "Associate Degree": 0,
+        "Doctorate": 1,
+        "Bachelor's Degree": 2,
+        "Master's Degree": 3,
+        "High School Diploma": 4
+    },
+    "Geographic Information": {
+        "Mizoram": 0,
+        "Goa": 1,
+        "Rajasthan": 2,
+        "Sikkim": 3,
+        "West Bengal": 4,
+        "Uttar Pradesh": 5,
+        "Himachal Pradesh": 6,
+        "Manipur": 7,
+        "Gujarat": 8,
+        "Andaman and Nicobar Islands": 9,
+        "Tripura": 10,
+        "Nagaland": 11,
+        "Karnataka": 12,
+        "Odisha": 13,
+        "Maharashtra": 14,
+        "Telangana": 15,
+        "Delhi": 16,
+        "Chandigarh": 17,
+        "Jharkhand": 18,
+        "Arunachal Pradesh": 19,
+        "Tamil Nadu": 20,
+        "Dadra and Nagar Haveli": 21,
+        "Lakshadweep": 22,
+        "Bihar": 23,
+        "Daman and Diu": 24,
+        "Assam": 25,
+        "Punjab": 26,
+        "Haryana": 27,
+        "Chhattisgarh": 28,
+        "Puducherry": 29,
+        "Uttarakhand": 30,
+        "Andhra Pradesh": 31,
+        "Kerala": 32,
+        "Madhya Pradesh": 33,
+        "Meghalaya": 34
+    },
+    "Occupation": {
+        "Entrepreneur": 0,
+        "Manager": 1,
+        "Nurse": 2,
+        "Artist": 3,
+        "Salesperson": 4,
+        "Lawyer": 5,
+        "Teacher": 6,
+        "Doctor": 7,
+        "Engineer": 8
+    },
+    "Interactions with Customer Service": {
+        "Phone": 0,
+        "Chat": 1,
+        "Email": 2,
+        "Mobile App": 3,
+        "In-Person": 4
+    },
+    "Customer Preferences": {
+        "Email": 0,
+        "Mail": 1,
+        "Text": 2,
+        "In-Person Meeting": 3,
+        "Phone": 4
+    }
+}
